@@ -1,15 +1,14 @@
 ### Hi World, I'm Marina :ocean:
 
-🦄 I’m frontender
-❄ I live in Siberia
+🦄 I’m frontender from Siberia ❄
 
 💻 **My current skills:**
-- Js/Ts, VueJs/NuxtJs;
+- Js(Ts), VueJs/NuxtJs;
 - Git, Npm;
 - HTML(pug), CSS(sass/scss);
 - BEM, Bootstrap (3, 4);
-- Wordpress, Magento 1,2;
-- English - Pre-Intermediate (reading tech documentation / free written communication).
+- CMS: Strapi; Wordpress; Magento (1/2);
+- English: Intermediate.
 
 🖱 **My favorite tools:**
 - WebStorm, Figma/SketchApp, Adobe Ps/Ai/Ae.
