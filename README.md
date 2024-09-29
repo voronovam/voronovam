@@ -40,12 +40,13 @@ My name is Marina, I'm frontend developer.
 
 
 ## 💻 My UI/UX open-source projects
-| Repo                                                                | Demo                                                   | Description                                                    |
-|:--------------------------------------------------------------------|:-------------------------------------------------------|:---------------------------------------------------------------|
-| [Website for search movies](https://github.com/voronovam/nuxt3_app) | [Demo](https://soundost.netlify.app/)                  | Nuxt 3, [OMDb API](https://www.omdbapi.com). 🛠️ In process... |
-| [Memory Game](https://github.com/voronovam/vanillajs_memoryGame)    | [Demo](https://memory-game-vanilla-js-24.netlify.app/) | VanillaJs, HTML, CSS                                           |
-| [Starter Template](https://github.com/voronovam/starter_template)   | [Demo](https://starter-template-pug-scss.netlify.app/) | Pug, SCSS, Gulp. 🛠️ In process...                             |                                        
-| [Email Template](https://github.com/voronovam/email_template)       | [Demo](https://email-template-responsive.netlify.app/) | Pure HTML + CSS, responsive                                    |                                        
+| Repo                                                                     | Demo                                                          | Description                                                    |
+|:-------------------------------------------------------------------------|:--------------------------------------------------------------|:---------------------------------------------------------------|
+| [Website for search movies](https://github.com/voronovam/nuxt3_app)      | [Demo](https://soundost.netlify.app/)                         | Nuxt 3, [OMDb API](https://www.omdbapi.com). 🛠️ In process... |
+| [Vue 3 CRUD app](https://github.com/voronovam/vue3-crud-app)             | [Demo](https://vue3-crud-app-24.netlify.app/)                 | Vue 3, Pug, Scss. 🛠️ In process...                            |
+| [Memory Game](https://github.com/voronovam/vanillajs_memoryGame)         | [Demo](https://memory-game-vanilla-js-24.netlify.app/)        | VanillaJs, HTML, CSS                                           |
+| [Starter Template](https://github.com/voronovam/starter_template)        | [Demo](https://starter-template-pug-scss.netlify.app/)        | Pug, SCSS, Gulp. 🛠️ In process...                             |                                        
+| [Email Template](https://github.com/voronovam/email_template)            | [Demo](https://email-template-responsive.netlify.app/)        | Pure HTML + CSS, responsive                                    |                                        
 
 ## GitHub Activity
 
